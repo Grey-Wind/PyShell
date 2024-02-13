@@ -5,6 +5,19 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyShell", "PyShell\PyShell.pyproj", "{EB744ACA-A21C-4754-9AFA-CAB46F5A1248}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "test", "test\test.pyproj", "{750F5192-CE45-4BAF-A78A-AFB813A3BB80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{9BC875A2-A48A-46CA-94BC-3AD8DDE46D98}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		publish.bat = publish.bat
+		README.md = README.md
+		README_CN.md = README_CN.md
+		setup.py = setup.py
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +26,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{EB744ACA-A21C-4754-9AFA-CAB46F5A1248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EB744ACA-A21C-4754-9AFA-CAB46F5A1248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750F5192-CE45-4BAF-A78A-AFB813A3BB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750F5192-CE45-4BAF-A78A-AFB813A3BB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

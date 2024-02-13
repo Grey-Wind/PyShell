@@ -1,6 +1,1 @@
-from .PyShell import PyShell
-
-
-
-
-
+from PyShell import Shell

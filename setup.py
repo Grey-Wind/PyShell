@@ -2,10 +2,10 @@ from setuptools import setup, find_packages
 
 setup(
     name='PyShell',
-    version='1.1.0',
+    version='2.0.0',
     description='A library that allows quick execution of shell commands',
     author='Grey-Wind',
-    author_email='Gray-Wind@outlook.com',
+    author_email='wjunqin7@gmail.com',
     packages=find_packages(),
     classifiers=[
         'License :: OSI Approved :: GNU GPL License v3',

@@ -1,10 +1,14 @@
-# Python Shell
+# PyShell
 
 A library that allows quick execution of shell commands.
 
 ------
 
-The project stopped, but I did a similar project.
+This project ~~ permanently stopped updating, but I made a similar project ~~ revived (miracle.jpg), the new version of the past idea is basically all implemented, fixed a lot of bugs. It is estimated that it will continue to stop and wait for an unknown time to continue to return.
+
+------
+
+Here is a similar library for C#, which is also being reworked.
 
 My new project can also be used in Python programs and is expected to be more stable than this.
 
