@@ -4,7 +4,7 @@ A library that allows quick execution of shell commands.
 
 ------
 
-This project ~~ permanently stopped updating, but I made a similar project ~~ revived (miracle.jpg), the new version of the past idea is basically all implemented, fixed a lot of bugs. It is estimated that it will continue to stop and wait for an unknown time to continue to return.
+This project ~~permanently stopped updating, but I made a similar project~~ revived (miracle.jpg), the new version of the past idea is basically all implemented, fixed a lot of bugs. It is estimated that it will continue to stop and wait for an unknown time to continue to return.
 
 ------
 
